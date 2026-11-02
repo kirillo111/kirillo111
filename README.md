@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kyrylo
 
-<!--
-**kirillo111/kirillo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer from Kyiv building tools around crypto exchanges.
 
-Here are some ideas to get you started:
+**What I build**
+- Cross-exchange spread scanners (CCXT, order-book depth, fees, wallet status)
+- Read-only analytics: no trading, no custody
+- In progress: Telegram alert bot, funding-rate scanner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured:** [crypto-spread-scanner](https://github.com/kirillo111/crypto-spread-scanner) - read-only Bybit/MEXC scanner with fees, slippage and wallet checks.
+
+**Stack:** Python, CCXT, pytest
+
+**Contact:** Telegram @<k_sxuppd> | <sharkirillo@gmail.com>
